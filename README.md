@@ -10,4 +10,4 @@ Thank you for your support, and for all of thouse outthere from whom I've taken 
 inspiration and guidance on this journey. 
 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
