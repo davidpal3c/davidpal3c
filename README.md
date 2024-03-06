@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm David! 
 
-<!--
-**davidpal3c/davidpal3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Software Development student sharing about my journey and learnings in tech
+🏫 Study [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT), in Calgary, AB, Canada
+🌳 Passionate about innovative software solutions and for using technology to solve real-world problems. 
+😎 #learninginpublic in my digital garden
+💭 Currently learning about web-development framerworks and Databases
 
-Here are some ideas to get you started:
+Thank you for your support, and for all of thouse outthere from whom I've taken valuable
+inspiration and guidance on this journey. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
