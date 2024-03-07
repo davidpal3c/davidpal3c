@@ -1,13 +1,3 @@
-### Hi, I'm David! 
-
-👩🏻‍💻 Software Developer-student sharing about my journey and learning in tech
-🏫 Study [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT), in Calgary, AB, Canada
-🌳 Passionate about innovative software solutions and for using technology to solve real-world problems. 
-💭 Currently learning about web-development frameworks and Databases
-
-Thank you for your support, and for all of those out there from whom I've taken valuable
-inspiration and guidance on this journey. 
-
 
 # Hi, I'm David!
 👩🏻‍💻 Software Developer-student sharing about my journey and learning in tech<br>🏫 Study [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT), in Calgary, AB, Canada<br>🌳 Passionate about innovative software solutions and for using technology to solve real-world problems. <br>💭 Currently learning about web-development frameworks and Databases<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance on this journey. <br>
