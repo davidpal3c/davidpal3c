@@ -1,6 +1,6 @@
 
 # Hi, I'm David!
-👩🏻‍💻 Software Developer-student sharing about my journey and learning in tech<br>🏫 Study [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT), in Calgary, AB, Canada<br>🌳 Passionate about innovative software solutions and using technology to solve real-world problems. <br>💭 Currently learning about web-development frameworks and Databases<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance on this journey. <br>
+👩🏻‍💻 Software Developer-student sharing about my journey and learning in tech<br>🏫 Study [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT), in Calgary, AB, Canada<br>🌳 Passionate about innovative software solutions, and using technology to solve real-world problems. <br>💭 Currently learning about web-development frameworks and Databases<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance on this journey. <br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/) 
