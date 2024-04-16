@@ -1,5 +1,6 @@
 
-# Hi, I'm David!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=25B8F7&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+profile!;Feel+free+to+browse+around+%3DD)](https://git.io/typing-svg)
+
 👩🏻‍💻 I'm a Software Developer sharing about my journey and learning in tech.<br>🏫 Studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Canada.<br>
 ⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.<br>
 💭 Currently learning web-development frameworks, OOP, and Databases.<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance on this journey. <br>
