@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=29F7AD&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+GitHub+profile!;Feel+free+to+browse+around+%3DD)](https://git.io/typing-svg)
 
-👩🏻‍💻 I'm a Software Developer sharing about my journey and learning in tech.<br>🏫 Studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Canada.<br>
+👩🏻‍💻 I'm a Software Developer sharing about my journey and learning in tech.<br>🏫 Studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.<br>
 ⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.<br>
-💭 Currently learning web-development frameworks, OOP, and Databases.<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey. <br>
+💭 Currently learning C#, Web-development frameworks, OOP in general, and PL/SQL Oracle.<br><br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey. <br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/) 
