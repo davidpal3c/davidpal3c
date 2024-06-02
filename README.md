@@ -3,7 +3,7 @@
 🔭 I'm a Software Developer sharing about my journey and learning in tech.<br>
 🏫 Currently studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.<br>
 ⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.<br>
-🌱 I'm currently learning C#, Web-development frameworks like Vue.js, OOP in general, and PL/SQL Oracle.<br>
+🌱 I'm currently learning C#, Vue.js, OOP in general, open-source projects in Python, and PL/SQL Oracle.<br>
 <br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey. <br>
 
 
@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
+
 -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
