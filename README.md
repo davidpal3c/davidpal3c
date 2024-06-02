@@ -13,7 +13,7 @@
 # My Articles:
 
 ![Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
-
+![Building a Better World: 18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
   <br><br>
 
 # 💻 Tech Stack:
