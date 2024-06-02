@@ -40,7 +40,7 @@
 <!--
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 -->
-
+<br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidpal3c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=transparent&hide_border=false)<br/>
