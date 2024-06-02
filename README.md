@@ -13,7 +13,7 @@
 # My Articles:
 
 <ul>
-<li>![Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)</li>
+![Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
 </ul>
   <br><br>
 
