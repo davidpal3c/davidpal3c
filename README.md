@@ -11,7 +11,7 @@
 <br><br>
 # My Articles:
 
-[Mastering AJAX Requests and Rendering in Django (https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)]
+[!Mastering AJAX Requests and Rendering in Django (https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)]
 <br><br>
 
 # 💻 Tech Stack:
