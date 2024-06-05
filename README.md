@@ -3,7 +3,7 @@
 <li>🔭 I'm a Software Developer sharing about my journey and learning in tech.</li>
 <li>🏫 Currently studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
 <li>⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.</li>
-<li>🌱 I'm currently learning C#, Vue.js, OOP in general, PL/SQL Oracle, and open-source projects in Python.</li>
+<li>🌱 I'm currently learning C#, Vue.js, OOP in general, PL/SQL Oracle, and open-source projects in Python, and more!.</li>
 </ul>
 <br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey! <br>
 
