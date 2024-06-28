@@ -14,7 +14,7 @@
 
 ![Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa) <br>
 ![Building a Better World: 18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
-  <br><br>
+<br><br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -30,7 +30,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
 
 -->
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Bootstrap5](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
