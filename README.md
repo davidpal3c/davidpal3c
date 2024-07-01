@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidpal3c)
-<br>
+
 # My Articles:
 
 ![Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa) <br>
