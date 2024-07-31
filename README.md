@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=1DB5E6FF&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+GitHub+profile!;Feel+free+to+browse+around+%3DD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=520FE6FF&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+GitHub+profile!;Feel+free+to+browse+around+%3DD)](https://git.io/typing-svg)
 <ul>
 <li>🔭 I'm a Software Developer sharing about my journey and learning in tech.</li>
 <li>🏫 Currently studying [Software Development](https://catalog.sait.ca/preview_program.php?catoid=172&poid=36745) at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
