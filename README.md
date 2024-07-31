@@ -27,9 +27,10 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=davidpal3c&theme=tokyo-night)
 <br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={davidpal3c})
 ---
-[![](https://visitcount.itsvg.in/api?id=davidpal3c&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
   
 
