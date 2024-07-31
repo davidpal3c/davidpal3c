@@ -29,8 +29,6 @@
 ![davidpal3c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{davidpal3c}1212%2Fhit-counter)
-
-![Visitor Count](https://profile-counter.glitch.me/{davidpal3c}/count.svg)
+[![davidpal3c profile views](https://u8views.com/api/v1/github/profiles/125712186/views/day-week-month-total-count.svg)](https://u8views.com/github/davidpal3c)
   
 
