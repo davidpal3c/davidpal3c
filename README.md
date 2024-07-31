@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=827CFFFF&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+GitHub+profile!;Feel+free+to+browse+around+%3DD)](https://git.io/typing-svg)
 <ul>
-<li>🔭 I'm a Software Developer sharing about my journey and learning in tech.</li>
+<li>🔭 I'm a Software Developer sharing about my journey in tech.</li>
 <li>🏫 Currently studying Software Development at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
 <li>⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.</li>
 <li>🌱 I'm currently learning C#, .NET, RESTful APIs, UML, PL/SQL Oracle.</li>
