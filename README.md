@@ -26,8 +26,9 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=davidpal3c&theme=xcode)
 <br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![davidpal3c's Stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&theme=calm&show_icons=true&hide_border=true&count_private=true)
+![davidpal3c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=calm&hide_border=true
+![davidpal3c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
