@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="43" height="40"><img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="43" height="40">
+
 <!-- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="43" height="40"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="43" height="40">
 -->
