@@ -18,14 +18,9 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="43" height="40"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,cs,dotnet,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=12)](https://skillicons.dev" />
-   <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="43" height="40"/>
-  </a>
-</p>
+
 
 
 <!-- 
