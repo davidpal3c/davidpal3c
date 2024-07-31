@@ -29,6 +29,6 @@
 ![davidpal3c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ---
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{davidpal3c}1212%2Fhit-counter)
   
 
