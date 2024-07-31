@@ -30,5 +30,7 @@
 
 ---
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{davidpal3c}1212%2Fhit-counter)
+
+![Visitor Count](https://profile-counter.glitch.me/{davidpal3c}/count.svg)
   
 
