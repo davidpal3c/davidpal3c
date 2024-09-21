@@ -5,7 +5,8 @@
 <li>⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.</li>
 <li>🌱 I'm currently learning Java, React, RESTful APIs, UML, PL/SQL Oracle, Docker</li>
 </ul>
-<br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey! <br>
+<br>Thank you for your support, and for all of those out there from whom I've taken valuable<br>inspiration and guidance in this journey! 
+<br>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidpal3c)
@@ -16,7 +17,7 @@
 ![Building a Better World: 18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
 <br><br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack :
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,java,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
 
