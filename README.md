@@ -17,7 +17,7 @@
 ![Building a Better World: 18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
 <br><br>
 
-## 💻 Tech Stack :
+## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,java,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
 
@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="43" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="43" height="40"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="43" height="40">
 -->
 
-<br><br>
+<br>
+<br>
 ## 📊 GitHub Stats:
 ![davidpal3c's Stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![davidpal3c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=nightowl&hide_border=true)
