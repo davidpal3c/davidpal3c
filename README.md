@@ -20,7 +20,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,cs,dotnet,java,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,py,django,cs,dotnet,java,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=27)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
 
 
 
