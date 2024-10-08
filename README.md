@@ -21,10 +21,6 @@
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,py,django,cs,dotnet,java,mysql,postgres,git,linux,js,html,css,bootstrap,figma&perline=30)](https://skillicons.dev) <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
-![dyCoh4R.png](https://iili.io/dyCoh4R.png)
-[![dyCoh4R.png](https://iili.io/dyCoh4R.png)](https://freeimage.host/)
-<a href="https://freeimage.host/"><img src="https://iili.io/dyCoh4R.png" alt="dyCoh4R.png" border="0"></a>
-
 
 
 <!-- 
