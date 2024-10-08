@@ -31,6 +31,7 @@
 
 
 <br>
+<br>
 ## 📊 GitHub Stats:
 ![davidpal3c's Stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![davidpal3c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=nightowl&hide_border=true)
