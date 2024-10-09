@@ -5,7 +5,7 @@
 <li>⭐ I'm passionate about innovative software solutions, and using technology to solve real-world problems.</li>
 <li>🌱 I'm currently learning Java, React, RESTful APIs, UML, PL/SQL Oracle, Docker</li>
 </ul>
-<br>Thank you for your support, and for all of those out there from whom I've taken invaluable<br>inspiration and guidance in this journey =) 
+<br>Thank you for your support, and for all of those out there from whom I've taken invaluable<br>inspiration and guidance in this journey =) .
 <br>
 
  
