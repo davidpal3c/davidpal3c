@@ -7,6 +7,7 @@
 </ul>
 <br>Thank you for your support, and for all of those out there from whom I've taken invaluable<br>inspiration and guidance in this journey =)
 <br>
+<br>
 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
