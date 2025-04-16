@@ -11,7 +11,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
-[![Profile](https://davidp-portfolio.vercel.app/)
+[Profile](https://davidp-portfolio.vercel.app/)
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🌐 Featured Project: CampusConnect
-[![Repository](https://github.com/davidpal3c/CampusConnect_next_express)
+[Repository](https://github.com/davidpal3c/CampusConnect_next_express)
 
 🎓 A full-stack campus platform designed for students, admins, and alumni to connect through articles, events, groups, and announcements.
 
