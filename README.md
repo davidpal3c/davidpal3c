@@ -11,11 +11,28 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidpal3c)
+[![Profile](https://davidp-portfolio.vercel.app/)
+
+---
+
+## ✍️ Articles:
+
+- [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
+- [18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
+
+---
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,py,django,cs,dotnet,java,postgres,mysql,docker,kubernetes,git,linux,aws,azure&perline=30)](https://skillicons.dev)  
+<img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
+
+---
 
 ---
 
 ## 🌐 Featured Project: CampusConnect
+[![Repository](https://github.com/davidpal3c/CampusConnect_next_express)
 
 🎓 A full-stack campus platform designed for students, admins, and alumni to connect through articles, events, groups, and announcements.
 
@@ -43,21 +60,6 @@
 - Role-based routing, admin dashboards, content creation flows
 - Full production deployment without Vercel — custom infrastructure on Azure
 
----
-
-## ✍️ Articles:
-
-- [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
-- [18 Principles for Socially and Environmentally Conscious Software](https://medium.com/@davidpal3c/building-a-better-world-18-principles-for-socially-and-environmentally-conscious-software-d9b989ca6ee1)
-
----
-
-## 💻 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,py,django,cs,dotnet,java,postgres,mysql,docker,kubernetes,git,linux,aws,azure&perline=30)](https://skillicons.dev)  
-<img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
-
----
 
 <!-- Optional GitHub Stats Section
 ## 📊 GitHub Stats:
