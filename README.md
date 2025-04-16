@@ -2,10 +2,11 @@
 
 <ul>
 <li>🔭 I'm a Software Developer sharing my journey building real-world, production-ready systems.</li>
-<li>🏫 Currently studying Software Development at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
 <li>🌎 Passionate about building resilient software that solves meaningful problems and is designed for impact.</li>
-<li>🚀 Learning deeply about CI/CD, Kubernetes, container orchestration, and cloud infrastructure.</li>
+<li>🚀 Learning Java, React, RESTful APIs, CI/CD, Kubernetes, container orchestration, and cloud infrastructurein.</li>
+<li>🏫 Currently finishing last semester of my Software Development Diploma at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
 </ul>
+
 
 <br>Thank you for your support, and to all those whose open knowledge & spirit of collaboration keep this journey alive. 🌱
 <br>
