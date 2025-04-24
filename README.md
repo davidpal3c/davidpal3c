@@ -25,7 +25,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,py,django,cs,dotnet,java,postgres,mysql,docker,kubernetes,git,linux,aws,azure&perline=30)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,py,django,java,cs,dotnet,postgres,mysql,docker,kubernetes,git,linux,aws,azure&perline=30)](https://skillicons.dev)  
 <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
 
 ---
