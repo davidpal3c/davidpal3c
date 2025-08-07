@@ -8,7 +8,7 @@
 </ul>
 
 
-<br>Thank you for your support, and to all those whose open knowledge & spirit of collaboration keep this journey alive. 🌱
+<br>Thank you for your support, and to all of those whose open knowledge & spirit of collaboration have helped to keep this journey alive. 🌱
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
