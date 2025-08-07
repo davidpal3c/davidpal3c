@@ -3,7 +3,7 @@
 <ul>
 <li>🔭 I'm a Software Developer sharing my journey building real-world, production-ready systems.</li>
 <li>🌎 Passionate about building resilient software that solves meaningful problems and is designed for impact.</li>
-<li>🚀 Learning Java, React, CI/CD, Kubernetes, container orchestration, and cloud infrastructure.</li>
+<li>🚀 Learning C#, React, CI/CD, Kubernetes, container orchestration, and cloud infrastructure.</li>
 <li>🏫 Currently finishing last semester of my Software Development Diploma at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
 </ul>
 
