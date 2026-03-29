@@ -63,9 +63,14 @@ Full-stack campus platform deployed on Azure Kubernetes Service.
 
 ## ✍️ Writing
 
-- [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
+[From Null to Tenant: Dynamic SSR Fetching with Orval, Next.js, and ASP.NET APIs](https://davidp-portfolio.vercel.app/blog/dynamic-ssr-fetching-orval-nextjs)
+[Dynamic Theming at Runtime: Tailwind + CSS Variables for Tenant-Specific Branding](https://davidp-portfolio.vercel.app/blog/dynamic-theming-tailwind-css-variables)
 
-*(More posts coming focused on platform engineering, systems design, and lessons learned.)*
+-> [Visit my Blog for more:](https://davidp-portfolio.vercel.app/blog)
+
+<!-- - [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa) -->
+
+<!-- *(More posts coming focused on platform engineering, systems design, and lessons learned.)* -->
 
 ---
 
