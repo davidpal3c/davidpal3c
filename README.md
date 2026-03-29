@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=827CFFFF&random=false&width=500&lines=Hi!+I'm+David;Software+Engineer+%7C+Platform-minded+Builder;From+sbuilding+apps+→+to+operating+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=827CFFFF&random=false&width=500&lines=Hi!+I'm+David;Software+Engineer;Platform-minded+Builder;From+building+apps;→+to+operating+systems;Focused+on+systems,+infrastructure;&+reliability)](https://git.io/typing-svg)
 
-
-From building apps → to operating systems
+Focused on systems, infrastructure, and reliability
 ---
 
 ## 👨‍💻 About Me
