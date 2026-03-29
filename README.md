@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E24C27&random=false&width=500&lines=Hi!+I'm+David;Software+Developer+-+Full+Stack;Platform-minded+Builder;Focused+on+systems,+infrastructure;+and+reliability)](https://git.io/typing-svg)
 
-Focused on systems, infrastructure, and reliability
 ---
 
 ## 👨‍💻 About Me
