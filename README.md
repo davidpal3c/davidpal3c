@@ -1,73 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=827CFFFF&random=false&width=447&lines=Hi!+I'm+David;Welcome+to+my+GitHub+profile!;Full-stack+developer+&+cloud-native+enthusiast)](https://git.io/typing-svg)
-
-<ul>
-<li>🔭 I'm a Software Developer sharing my journey building real-world, production-ready systems.</li>
-<li>🌎 Passionate about building resilient software that solves meaningful problems and is designed for impact.</li>
-<li>🚀 Learning C#, React, CI/CD, Kubernetes, container orchestration, and cloud infrastructure.</li>
-<li>🏫 Currently finishing last semester of my Software Development Diploma at the Southern Alberta Institute of Technology (SAIT) in Alberta, Canada.</li>
-</ul>
-
-
-<br>Thank you for your support, and to all of those whose open knowledge & spirit of collaboration have helped to keep this journey alive. 🌱
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
-[Profile](https://davidp-portfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=827CFFFF&random=false&width=500&lines=Hi!+I'm+David;Software+Engineer+%7C+Platform-minded+Builder;Building+systems+that+run%2C+not+just+compile)](https://git.io/typing-svg)
 
 ---
 
-## ✍️ Articles:
+## 👨‍💻 About Me
+
+Software Engineer with a strong full-stack background, currently evolving into **Cloud, DevOps, and Platform Engineering**.
+
+I’ve spent the last years building real-world systems — APIs, dashboards, and data-driven applications — and I’m now focused on understanding **how those systems are deployed, observed, and operated under real constraints**.
+
+> Moving from building applications → to operating systems.
+
+---
+
+## 🧭 What I’m Working On
+
+- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills  
+- ⚙️ Exploring **Linux, storage architecture, container orchestration, and observability**  
+- 📡 Building **AlethosAPI**, a workload used to validate platform decisions  
+- 🔍 Focusing on **deployment, failure handling, and system reliability**  
+
+---
+
+## 🚀 Featured Work
+
+### 🧱 Homelab Platform *(In Progress)*
+A production-inspired platform designed to explore infrastructure, observability, and workload operations.
+
+- RAID1 boot resilience (dual EFI)
+- Storage isolation across OS, runtime, database, and backups
+- Platform-first approach before workload deployment
+- Planned stack: k3s, Prometheus, Grafana, Loki, CI/CD
+
+---
+
+### 🌐 AlethosAPI *(In Progress)*
+A contextual data API designed as a **validation workload** for the platform.
+
+- API-first architecture with future ingestion pipelines
+- Designed to test latency, deployment, and system behavior
+- Will integrate structured and contextual datasets
+
+---
+
+### 🌐 CampusConnect
+[Repository](https://github.com/davidpal3c/CampusConnect_next_express)
+
+Full-stack campus platform deployed on Azure Kubernetes Service.
+
+- Next.js, Node.js, PostgreSQL
+- Firebase Auth (Google + Microsoft)
+- CI/CD with GitHub Actions
+- TLS with cert-manager (DNS-01 challenge)
+- Blue-Green deployment strategy
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,express,postgres,mysql,docker,kubernetes,linux,aws,azure&perline=14)](https://skillicons.dev)
+
+---
+
+## ✍️ Writing
 
 - [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa)
 
----
-
-## 💻 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,py,django,fastapi,cs,dotnet,java,postgres,mysql,docker,kubernetes,git,linux,aws,azure&perline=30)](https://skillicons.dev)  
-<img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="52" height="52"/>
+*(More posts coming focused on platform engineering, systems design, and lessons learned.)*
 
 ---
 
----
+## 🔗 Connect
 
-## 🌐 Featured Project: CampusConnect
-[Repository](https://github.com/davidpal3c/CampusConnect_next_express)
-
-🎓 A full-stack campus platform designed for students, admins, and alumni to connect through articles, events, groups, and announcements.
-
-**Key Highlights**:
-
-- **Frontend**: Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, Prisma (PostgreSQL)
-- **Auth**: Firebase Google + Microsoft SSO
-- **Deployment**: Azure Kubernetes Service (AKS), Docker, Azure Container Registry
-- **DevOps**: Full CI/CD via GitHub Actions
-- **TLS**: cert-manager, Let's Encrypt with Azure DNS (DNS-01 challenge)
-- **Zero-Downtime**: Blue-Green Deployment Strategy
-- **Ingress**: NGINX reverse proxy with path-based routing and wildcard DNS
-
-▶️ Live Demo: [`https://sait.campusconnect.it.com`](https://sait.campusconnect.it.com)
-
-📁 Codebase:
-- `client/` – Next.js frontend
-- `server/` – Express backend
-- `k8s/` – Kubernetes manifests for deployments, secrets, ingress, TLS
-
-📌 Areas Explored:
-- Secure session validation using Firebase ID tokens
-- Kubernetes Secrets and GitHub Actions build-time secrets
-- Role-based routing, admin dashboards, content creation flows
-- Full production deployment without Vercel — custom infrastructure on Azure
-
-
-<!-- Optional GitHub Stats Section
-## 📊 GitHub Stats:
-![davidpal3c's Stats](https://github-readme-stats.vercel.app/api?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![davidpal3c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidpal3c&theme=nightowl&hide_border=true)
-![davidpal3c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpal3c&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
+[Portfolio](https://davidp-portfolio.vercel.app/)
 
 ---
 
-[![davidpal3c profile views](https://u8views.com/api/v1/github/profiles/125712186/views/day-week-month-total-count.svg)](https://u8views.com/github/davidpal3c)
+> Building systems that are not only functional — but observable, reliable, and operable.
