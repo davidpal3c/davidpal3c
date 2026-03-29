@@ -64,7 +64,9 @@ Full-stack campus platform deployed on Azure Kubernetes Service.
 ## ✍️ Writing
 
 - [From Null to Tenant: Dynamic SSR Fetching with Orval, Next.js, and ASP.NET APIs](https://davidp-portfolio.vercel.app/blog/dynamic-ssr-fetching-orval-nextjs)
-<br/>
+ 
+<br></br>
+
 - [Dynamic Theming at Runtime: Tailwind + CSS Variables for Tenant-Specific Branding](https://davidp-portfolio.vercel.app/blog/dynamic-theming-tailwind-css-variables)
 
 -> [Visit my Blog for more](https://davidp-portfolio.vercel.app/blog)
