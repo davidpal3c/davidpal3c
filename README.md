@@ -6,7 +6,7 @@
 
 Software Engineer with a strong full-stack background, currently evolving into **Cloud, DevOps, and Platform Engineering**.
 
-I’ve spent the last years building real-world systems — APIs, dashboards, and data-driven applications — and I’m now focused on understanding **how those systems are deployed, observed, and operated under real constraints**.
+I’ve spent the last years building real-world systems, APIs, dashboards, and data-driven applications, and I’m now focused on understanding **how those systems are deployed, observed, and operated under real constraints**.
 
 > Moving from building applications → to operating systems.
 
