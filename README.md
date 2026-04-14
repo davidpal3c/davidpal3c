@@ -16,7 +16,7 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 - 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills  
 - ⚙️ Exploring **Linux, storage architecture, container orchestration, and observability**  
-- 📡 Building **AlethosAPI**, a workload used to validate platform decisions  
+- 📡 Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
 - 🔍 Focusing on **deployment, failure handling, and system reliability**  
 
 ---
