@@ -33,7 +33,7 @@ A production-inspired platform designed to explore infrastructure, observability
 
 ---
 
-### 🌐 AlethosAPI *(In Progress)*
+### 🌐 Aluna_Access *(In Progress)*
 A contextual data API designed as a **validation workload** for the platform.
 
 - API-first architecture with future ingestion pipelines
