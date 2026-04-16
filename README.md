@@ -14,10 +14,10 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ## 🧭 What I’m Working On
 
-- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills  
+- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Canopi
 - ⚙️ Exploring **Linux, storage architecture, container orchestration, and observability**  
 - 📡 Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
-- 🔍 Focusing on **deployment, failure handling, and system reliability**  
+- 🔍 Focusing on **deployment, failure handling, and system reliability**
 
 ---
 
