@@ -61,11 +61,12 @@ Full-stack campus platform deployed on Azure Kubernetes Service.
 
 ---
 
-## ✍️ Writing
+## Feel welcome to visit my Blog
+
+- [Designing Failure Domains on a Single Node: Boot, Platform, Data, Backup Tiers](https://www.davidpalacios.dev/blog/designing-failure-domains-single-node)
 
 - [From Null to Tenant: Dynamic SSR Fetching with Orval, Next.js, and ASP.NET APIs](https://davidp-portfolio.vercel.app/blog/dynamic-ssr-fetching-orval-nextjs)
  
-
 - [Dynamic Theming at Runtime: Tailwind + CSS Variables for Tenant-Specific Branding](https://davidp-portfolio.vercel.app/blog/dynamic-theming-tailwind-css-variables)
 
 -> [Visit my Blog for more](https://davidp-portfolio.vercel.app/blog)
