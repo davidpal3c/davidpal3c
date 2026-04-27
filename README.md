@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me 
 
 Software Engineer with a strong full-stack background, currently evolving into **Cloud, DevOps, and Platform Engineering**.
 
@@ -12,18 +12,18 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ---
 
-## 🧭 What I’m Working On
+## What I’m Working On
 
-- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba
-- ⚙️ Exploring **Linux, storage architecture, container orchestration, and observability**  
-- 📡 Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
-- 🔍 Focusing on **deployment, failure handling, and system reliability**
+- Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba
+- Exploring **Linux, storage architecture, container orchestration, and observability**  
+- Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
+- Focusing on **deployment, failure handling, and system reliability**
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
-### 🧱 Homelab Platform *(In Progress)*
+### Homelab Platform *(In Progress)*
 A production-inspired platform designed to explore infrastructure, observability, and workload operations.
 
 - RAID1 boot resilience (dual EFI)
@@ -33,7 +33,7 @@ A production-inspired platform designed to explore infrastructure, observability
 
 ---
 
-### 🌐 Ceiba *(In Progress)*
+### Ceiba *(In Progress)*
 A contextual data API designed as a **validation workload** for the platform.
 
 - API-first architecture with future ingestion pipelines
@@ -42,7 +42,7 @@ A contextual data API designed as a **validation workload** for the platform.
 
 ---
 
-### 🌐 CampusConnect
+### CampusConnect
 [Repository](https://github.com/davidpal3c/CampusConnect_next_express)
 
 Full-stack campus platform deployed on Azure Kubernetes Service.
@@ -55,13 +55,13 @@ Full-stack campus platform deployed on Azure Kubernetes Service.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,express,postgres,mysql,docker,kubernetes,linux,aws,azure&perline=14)](https://skillicons.dev)
 
 ---
 
-## Feel welcome to visit my Blog
+## Blog
 
 - [Designing Failure Domains on a Single Node: Boot, Platform, Data, Backup Tiers](https://www.davidpalacios.dev/blog/designing-failure-domains-single-node)
 
