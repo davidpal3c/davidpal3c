@@ -14,7 +14,7 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ## 🧭 What I’m Working On
 
-- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Canopi
+- 🏗️ Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba
 - ⚙️ Exploring **Linux, storage architecture, container orchestration, and observability**  
 - 📡 Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
 - 🔍 Focusing on **deployment, failure handling, and system reliability**
@@ -33,7 +33,7 @@ A production-inspired platform designed to explore infrastructure, observability
 
 ---
 
-### 🌐 Aluna_Access (Canopi) *(In Progress)*
+### 🌐 Ceiba *(In Progress)*
 A contextual data API designed as a **validation workload** for the platform.
 
 - API-first architecture with future ingestion pipelines
