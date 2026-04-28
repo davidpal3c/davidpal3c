@@ -23,8 +23,8 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ## Featured Work
 
-### Homelab Platform *(In Progress)*
-A production-inspired platform designed to explore infrastructure, observability, and workload operations.
+### [Homelab Platform](https://github.com/davidpal3c/aluna_platform)
+(In progress) Production-inspired platform designed to explore infrastructure, observability, and workload operations.
 
 - RAID1 boot resilience (dual EFI)
 - Storage isolation across OS, runtime, database, and backups
