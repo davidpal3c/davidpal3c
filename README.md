@@ -42,8 +42,8 @@ A contextual data API designed as a **validation workload** for the platform.
 
 ---
 
-### CampusConnect
-[Repository](https://github.com/davidpal3c/CampusConnect_next_express)
+### [CampusConnect] (https://github.com/davidpal3c/CampusConnect_next_express)
+
 
 Full-stack campus platform deployed on Azure Kubernetes Service.
 
