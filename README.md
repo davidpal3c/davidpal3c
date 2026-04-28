@@ -34,8 +34,7 @@ A production-inspired platform designed to explore infrastructure, observability
 ---
 
 ### [Ceiba](https://github.com/CeibaLabs/ceiba-sdk-node) 
-(In Progress)<br/>
-A contextual data API designed as a **validation workload** for the platform.
+(In progress) Contextual data API designed as a **validation workload** for the platform.
 
 - API-first architecture with future ingestion pipelines
 - Designed to test latency, deployment, and system behavior
