@@ -14,7 +14,7 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ## What I’m Working On
 
-- Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba
+- Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba, a Node-first API productization layer that helps teams add keys, plans, quotas, usage tracking, and subscription-gated access to existing APIs without adopting a full gateway.
 - Exploring **Linux, storage architecture, container orchestration, and observability**  
 - Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
 - Focusing on **deployment, failure handling, and system reliability**
