@@ -42,10 +42,11 @@ It also serves as a meaningful workload for validating platform and deployment d
 ### [Homelab Platform](https://github.com/davidpal3c/aluna_platform)
 (In progress) Production-inspired platform designed to explore infrastructure, observability, and workload operations.
 
-- RAID1 boot resilience (dual EFI)
+- RAID1 boot resilience with dual EFI
 - Storage isolation across OS, runtime, database, and backups
-- Platform-first approach before workload deployment
-- Planned stack: k3s, Prometheus, Grafana, Loki, CI/CD
+- Platform-first design before workload sprawl
+- Current direction includes k3s, Prometheus, Grafana, Loki, and CI/CD
+- Built around failure-domain thinking, recoverability, and operational clarity
 
 ---
 
