@@ -2,13 +2,12 @@
 
 ---
 
-## About Me 
+## About me
 
-Software Engineer with a strong full-stack background, currently evolving into **Cloud, DevOps, and Platform Engineering**.
+I'm a Software Developer with a strong full-stack background, now deepening into **Cloud, DevOps, and Platform Engineering**.
 
-I’ve spent the last years building real-world systems, APIs, dashboards, and data-driven applications, and I’m now focused on understanding **how those systems are deployed, observed, and operated under real constraints**.
+Over the last few years, I’ve built APIs, dashboards, internal tools, and production-facing applications. More recently, I’ve been leaning harder into how do these systems actually get deployed, observed, scaled, and operated under real constraints. This shift has pushed me toward infrastructure, runtime environments, failure domains, observability, and the operational side of software delivery.
 
-> Moving from building applications → to operating systems.
 
 ---
 
