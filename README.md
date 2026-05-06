@@ -14,14 +14,31 @@ I’ve spent the last years building real-world systems, APIs, dashboards, and d
 
 ## What I’m Working On
 
-- Designing a **platform-first homelab** to develop real infrastructure and operational skills while building Ceiba, a Node-first API productization layer that helps teams add keys, plans, quotas, usage tracking, and subscription-gated access to existing APIs without adopting a full gateway.
-- Exploring **Linux, storage architecture, container orchestration, and observability**  
-- Building **Aluna-Access**, a lightweight API access and monetization layer for modern APIs. Also a workload used to validate platform decisions.
-- Focusing on **deployment, failure handling, and system reliability**
+- Designing a **platform-first homelab** to develop real infrastructure and operations skills through meaningful workloads
+- Building **Ceiba**, a Node-first API productization layer that helps teams add **API keys, plans, quotas, usage tracking, and subscription-gated access** to an existing API without adopting a full gateway
+- Exploring **Linux, storage architecture, container orchestration, observability, and deployment discipline**
+- Focusing on **reliability, failure handling, and operational clarity**, not just feature delivery
 
 ---
 
 ## Featured Work
+
+
+### [Ceiba](https://github.com/CeibaLabs/ceiba-sdk)
+Node-first API productization layer for existing APIs.
+
+Ceiba is focused on helping developers and small teams:
+
+- protect endpoints with managed access control
+- issue and manage API keys
+- define plans and quotas
+- track usage
+- gate access through subscription-backed rules
+- avoid standing up a full gateway or building the entire access stack in-house
+
+It also serves as a meaningful workload for validating platform and deployment decisions.
+
+---
 
 ### [Homelab Platform](https://github.com/davidpal3c/aluna_platform)
 (In progress) Production-inspired platform designed to explore infrastructure, observability, and workload operations.
