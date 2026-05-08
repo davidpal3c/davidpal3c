@@ -50,15 +50,6 @@ It also serves as a meaningful workload for validating platform and deployment d
 
 ---
 
-### [Ceiba](https://github.com/CeibaLabs/ceiba-sdk-node) 
-(In progress) Contextual data API designed as a **validation workload** for the platform.
-
-- API-first architecture with future ingestion pipelines
-- Designed to test latency, deployment, and system behavior
-- Will integrate structured and contextual datasets
-
----
-
 ### [CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)
 
 
