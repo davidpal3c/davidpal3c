@@ -14,7 +14,7 @@ Over the last few years, I’ve built APIs, dashboards, internal tools, and prod
 ## What I’m Working On
 
 - Designing a **platform-first homelab** to develop real infrastructure and operations skills through meaningful workloads
-- Building **Ceiba**, a Node-first API productization layer that helps teams add **API keys, plans, quotas, usage tracking, and subscription-gated access** to an existing API without adopting a full gateway
+- Building **Ceiba**, a Node-first API productization layer that helps teams add **API keys, plans, quotas, usage tracking, and subscription-gated access** to an existing API without adopting a full gateway.
 - Exploring **Linux, storage architecture, container orchestration, observability, and deployment discipline**
 - Focusing on **reliability, failure handling, and operational clarity**, not just feature delivery
 
