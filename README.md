@@ -50,6 +50,25 @@ It also serves as a meaningful workload for validating platform and deployment d
 
 ---
 
+### [MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)
+Hackathon-built launchpad for turning an endpoint into a paid, agent-ready tool package.
+
+MonetizeAPI takes a simple API or endpoint description and generates the pieces needed to package it for monetization:
+
+- pricing and quota recommendations
+- x402 payment metadata
+- MCP tool definition
+- Ceiba-ready policy config
+- docs and launch checklist
+- paid-call simulation
+- downloadable launch package
+
+It was built for the Agnic monetization track, using Agnic for OAuth, balance, top-up, and paid model calls while keeping the core product logic provider-independent.
+
+Longer term, MonetizeAPI is the alpha path toward **Ceiba Launchpad**: a guided layer that helps developers move from having and endpoint or service to a priced, protected, documented, agent-callable product.
+
+--- 
+
 ### [CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)
 
 
