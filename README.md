@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E24C27&random=false&width=500&lines=Hi!+I'm+David;Software+Developer+-+Full+Stack;Platform-minded+Builder;Focused+on+systems,+infrastructure;+and+reliability)](https://git.io/typing-svg)
 
 ---
-
 ## About me
 
 I'm a Software Developer with a strong full-stack background, now deepening into **Cloud, DevOps, and Platform Engineering**.
@@ -10,7 +9,6 @@ Over the last few years, I’ve built APIs, dashboards, internal tools, and prod
 
 
 ---
-
 ## What I’m Working On
 
 - Designing a **platform-first homelab** to develop real infrastructure and operations skills through meaningful workloads
