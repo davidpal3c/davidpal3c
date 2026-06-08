@@ -17,7 +17,6 @@ Over the last few years, I’ve built APIs, dashboards, internal tools, and prod
 - Focusing on **reliability, failure handling, and operational clarity**, not just feature delivery
 
 ---
-
 ## Featured Work
 
 
@@ -47,7 +46,6 @@ It also serves as a meaningful workload for validating platform and deployment d
 - Built around failure-domain thinking, recoverability, and operational clarity
 
 ---
-
 ### [MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)
 Hackathon-built launchpad for turning an endpoint into a paid, agent-ready tool package.
 
