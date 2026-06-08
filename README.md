@@ -35,7 +35,6 @@ Ceiba is focused on helping developers and small teams:
 It also serves as a meaningful workload for validating platform and deployment decisions.
 
 ---
-
 ### [Homelab Platform](https://github.com/davidpal3c/aluna_platform)
 (In progress) Production-inspired platform designed to explore infrastructure, observability, and workload operations.
 
@@ -64,7 +63,6 @@ It was built for the Agnic monetization track, using Agnic for OAuth, balance, t
 Longer term, MonetizeAPI is the alpha path toward **Ceiba Launchpad**: a guided layer that helps developers move from having and endpoint or service to a priced, protected, documented, agent-callable product.
 
 --- 
-
 ### [CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)
 
 
@@ -77,13 +75,11 @@ Full-stack campus platform deployed on Azure Kubernetes Service.
 - Blue-Green deployment strategy
 
 ---
-
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,express,postgres,mysql,docker,kubernetes,linux,aws,azure&perline=14)](https://skillicons.dev)
 
 ---
-
 ## Blog
 
 - [Designing Failure Domains on a Single Node: Boot, Platform, Data, Backup Tiers](https://www.davidpalacios.dev/blog/designing-failure-domains-single-node)
