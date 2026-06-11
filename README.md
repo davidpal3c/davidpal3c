@@ -7,7 +7,6 @@ I'm a Software Developer with a strong full-stack background, now deepening into
 
 Over the last few years, I’ve built APIs, dashboards, internal tools, and production-facing applications. More recently, I’ve been leaning harder into how do these systems actually get deployed, observed, scaled, and operated under real constraints. This shift has pushed me toward infrastructure, runtime environments, failure domains, observability, and the operational side of software delivery.
 
-
 ---
 ## What I’m Working On
 
