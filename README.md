@@ -1,10 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=600&color=E24C27&random=false&width=1000&lines=Hi!+I'm+David;Software+Engineer,+Cloud+&+Infrastructure;Platform-minded+Builder;Focused+on+systems,+and+reliability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E28116&width=700&lines=Hi!+I'm+David;Software+Engineer%2C+Cloud+%26+Infrastructure)](https://git.io/typing-svg)
 
----
-
-## David Palacios — Software Engineer, Cloud & Infrastructure
-
-**Calgary, AB, Canada** · AWS Certified Solutions Architect – Associate · [davidpalacios.dev](https://davidpalacios.dev)
+AWS Certified Solutions Architect – Associate · [davidpalacios.dev](https://davidpalacios.dev) based in Calgary, AB, Canada
 
 I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines they run on.
 
@@ -31,17 +27,17 @@ I like working on both sides of development and operations, I can read the appli
 
 ---
 
-### What I work with
+### Stack and Tooling I use
 
 | | |
 |---|---|
 | **Cloud** | AWS — VPC · EC2 · RDS · IAM · CloudWatch · Lambda · SNS · S3 <br> Azure — AKS · DevOps Pipelines · Key Vault|
 | **Infrastructure as Code** | Terraform · Bash · Python · YAML |
 | **Containers & CI/CD** | Docker · Kubernetes · AKS · k3s · Helm · GitHub Actions · Azure DevOps |
-| **Systems** | Ubuntu Server · mdadm RAID · systemd · Nginx · IIS · Kestrel |
+| **Systems** | Linux - Ubuntu Server · mdadm RAID · systemd · Nginx · IIS · Kestrel |
 | **Backend** | C# / ASP.NET Core · Node.js / Express / Fastify · Python / FastAPI · REST APIs |
-| **Frontend** | TypeScript · React · Next.js · state management (React Query, Zustand, Context API) |
-| **Data** | PostgreSQL · SQL Server · Redis · query and schema optimization |
+| **Frontend** | TypeScript · React · Next.js · state management (React Query, Zustand, Context API), HTML, CSS |
+| **Data** | PostgreSQL · SQL Server · Redis |
 
 
 ---
