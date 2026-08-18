@@ -8,11 +8,11 @@
 
 I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines they run on.
 
-Most engineers are strong on one side of that line. I work both, which is the part that tends to matter when something breaks in production at 2 a.m.: I can read the application *and* the infrastructure under it, and follow a bug across the boundary instead of stopping at it.
+I like working on both sides of development and operations, I can read the application *and* the infrastructure under it, and follow a bug across the boundary.
 
 ---
 
-### The short version
+### In short
 
 - **Production software** — C#/ASP.NET Core, TypeScript/Next.js/React, Python/FastAPI, SQL Server/PostgreSQL. Cut reporting latency 40%+ and improved front-end performance ~30% on real systems with real users.
 - **Cloud & infrastructure** — AWS (VPC, EC2, RDS, IAM, CloudWatch, Lambda) and Azure (AKS, DevOps, Key Vault), all Terraform-managed, with CI/CD and automated cost controls on live environments.
