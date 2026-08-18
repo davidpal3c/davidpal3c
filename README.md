@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=800&color=E24C27&random=false&width=800&lines=Hi!+I'm+David;Software+Engineer,+Cloud+&+Infrastructure;Platform-minded+Builder;Focused+on+systems,+and+reliability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=600&color=E24C27&random=false&width=1000&lines=Hi!+I'm+David;Software+Engineer,+Cloud+&+Infrastructure;Platform-minded+Builder;Focused+on+systems,+and+reliability)](https://git.io/typing-svg)
 
 ---
 
