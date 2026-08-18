@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=85E216&width=700&lines=Hi!+I'm+David;Software+Engineer%2C+Cloud+%26+Infrastructure)](https://git.io/typing-svg)
 
-Software Engineer -Full-Stack, and AWS Certified Solutions Architect – Associate 
-
-· [davidpalacios.dev](https://davidpalacios.dev) based in Calgary, AB, Canada
+Software Engineer -Full-Stack · AWS Certified Solutions Architect – Associate <br>· [davidpalacios.dev](https://davidpalacios.dev) based in Calgary, AB, Canada
 
 I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines where they run.
 
