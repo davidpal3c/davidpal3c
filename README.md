@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E28116&width=700&lines=Hi!+I'm+David;Software+Engineer%2C+Cloud+%26+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=85E216&width=700&lines=Hi!+I'm+David;Software+Engineer%2C+Cloud+%26+Infrastructure)](https://git.io/typing-svg)
 
 AWS Certified Solutions Architect – Associate · [davidpalacios.dev](https://davidpalacios.dev) based in Calgary, AB, Canada
 
