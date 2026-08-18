@@ -11,7 +11,9 @@ I like working on both sides of development and operations, I can read the appli
 ### In short
 
 - **Production software** — C#/ASP.NET Core, TypeScript/Next.js/React, Python/FastAPI, SQL Server/PostgreSQL. Cut reporting latency 40%+ and improved front-end performance ~30% on real systems with real users.
+
 - **Cloud & infrastructure** — AWS (VPC, EC2, RDS, IAM, CloudWatch, Lambda) and Azure (AKS, DevOps, Key Vault), all Terraform-managed, with CI/CD and automated cost controls on live environments.
+
 - **Currently building** — Ceiba, an API access/monetization platform, and a bare-metal Linux platform run with production-style operational discipline (see below).
 
 ---
@@ -50,7 +52,7 @@ I like working on both sides of development and operations, I can read the appli
 | **[CarbonSage](https://github.com/davidpal3c/CarbonSage_agentic_ai)** | Full-stack data platform — FastAPI, Next.js, RAG/retrieval, provenance-bearing contracts, deployment gates |
 | **[ceiba-sdk-node](https://github.com/CeibaLabs/ceiba-sdk-node)** | Shipped developer tooling, published and MIT-licensed |
 | **[MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)** | A paid product I built and deployed end to end |
-| **[mu-platform_homelab](https://github.com/davidpal3c/mu-platform_homelab)** | Linux and platform engineering: failure-domain isolation by storage tier, and an operating model where nothing is "done" without verification |
+| **[mu-platform_homelab](https://github.com/davidpal3c/mu-platform_homelab)** | Linux and platform engineering: failure-domain isolation by storage tier, and an operating model where everything done is verified and documented |
 | **[CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)** | Full-stack delivery (Next.js/Node/PostgreSQL) *and* the Kubernetes deployment behind it — AKS, Ingress, TLS, GitHub Actions — for a 5-person team I led |
 
 
@@ -58,8 +60,9 @@ I like working on both sides of development and operations, I can read the appli
 
 ### Writing
 
-I document the reasoning, not just the result — architecture decisions, cost analysis, and the things that broke.
-**[davidpalacios.dev](https://davidpalacios.dev)**
+Beyond results, here's some reasoning, architecture decisions, cost analysis, and things that broke on the way. 
+[Visit my Blog for more](https://davidppalacios.dev/blog)
+
 
 ---
 
@@ -67,28 +70,5 @@ I document the reasoning, not just the result — architecture decisions, cost a
 
 *Open to Software Engineering, Cloud, DevOps, and Platform Engineering roles — Calgary, remote across Canada, and contract engagements.*
 
----
-## Blog
-
-- [Designing Failure Domains on a Single Node: Boot, Platform, Data, Backup Tiers](https://www.davidpalacios.dev/blog/designing-failure-domains-single-node)
-
-- [From Null to Tenant: Dynamic SSR Fetching with Orval, Next.js, and ASP.NET APIs](https://davidp-portfolio.vercel.app/blog/dynamic-ssr-fetching-orval-nextjs)
- 
-- [Dynamic Theming at Runtime: Tailwind + CSS Variables for Tenant-Specific Branding](https://davidp-portfolio.vercel.app/blog/dynamic-theming-tailwind-css-variables)
-
--> [Visit my Blog for more](https://davidp-portfolio.vercel.app/blog)
-
-<!-- - [Mastering AJAX Requests and Rendering in Django](https://awstip.com/mastering-ajax-requests-and-rendering-in-django-3a0498c9fdfa) -->
-
-<!-- *(More posts coming focused on platform engineering, systems design, and lessons learned.)* -->
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-palacios-9077a2223/)
-[Portfolio](https://davidp-portfolio.vercel.app/)
-
----
 
 > Building systems that are not only functional — but observable, reliable, and operable.
