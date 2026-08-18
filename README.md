@@ -2,9 +2,9 @@
 
 AWS Certified Solutions Architect – Associate · [davidpalacios.dev](https://davidpalacios.dev) based in Calgary, AB, Canada
 
-I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines they run on.
+I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines where they run.
 
-I like working on both sides of development and operations, I can read the application *and* the infrastructure under it, and follow a bug across the boundary.
+I like working on both sides of development and operations, I can read the application *and* the infrastructure under it, think in terms of business and follow a bug across the boundary.
 
 ---
 
