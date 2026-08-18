@@ -1,82 +1,75 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E24C27&random=false&width=500&lines=Hi!+I'm+David;Software+Developer+-+Full+Stack;Platform-minded+Builder;Focused+on+systems,+infrastructure;+and+reliability)](https://git.io/typing-svg)
 
 ---
-## About me
 
-I'm a Software Developer with a strong full-stack background, now deepening into **Cloud, DevOps, and Platform Engineering**.
+## David Palacios — Software Engineer, Cloud & Infrastructure
 
-Over the last few years, I’ve built APIs, dashboards, internal tools, and production-facing applications. More recently, I’ve been leaning harder into how do these systems actually get deployed, observed, scaled, and operated under real constraints. This shift has pushed me toward infrastructure, runtime environments, failure domains, observability, and the operational side of software delivery.
+**Calgary, AB, Canada** · AWS Certified Solutions Architect – Associate · [davidpalacios.dev](https://davidpalacios.dev)
 
----
-## What I’m Working On
+I design, build, and operate systems end to end — APIs and applications in C#/.NET, TypeScript/React, and Python, and the AWS/Azure infrastructure, Terraform, containers, and CI/CD pipelines they run on.
 
-- Designing a **platform-first homelab** to develop real infrastructure and operations skills through meaningful workloads
-- Building **Ceiba**, a Node-first API productization layer that helps teams add **API keys, plans, quotas, usage tracking, and subscription-gated access** to an existing API without adopting a full gateway.
-- Exploring **Linux, storage architecture, container orchestration, observability, and deployment discipline**
-- Focusing on **reliability, failure handling, and operational clarity**, not just feature delivery
+Most engineers are strong on one side of that line. I work both, which is the part that tends to matter when something breaks in production at 2 a.m.: I can read the application *and* the infrastructure under it, and follow a bug across the boundary instead of stopping at it.
 
 ---
-## Featured Work
 
+### The short version
 
-### [Ceiba](https://github.com/CeibaLabs/ceiba-sdk)
-Node-first API productization layer for existing APIs.
-
-Ceiba is focused on helping developers and small teams:
-
-- protect endpoints with managed access control
-- issue and manage API keys
-- define plans and quotas
-- track usage
-- gate access through subscription-backed rules
-- avoid standing up a full gateway or building the entire access stack in-house
-
-It also serves as a meaningful workload for validating platform and deployment decisions.
+- **Production software** — C#/ASP.NET Core, TypeScript/Next.js/React, Python/FastAPI, SQL Server/PostgreSQL. Cut reporting latency 40%+ and improved front-end performance ~30% on real systems with real users.
+- **Cloud & infrastructure** — AWS (VPC, EC2, RDS, IAM, CloudWatch, Lambda) and Azure (AKS, DevOps, Key Vault), all Terraform-managed, with CI/CD and automated cost controls on live environments.
+- **Currently building** — Ceiba, an API access/monetization platform, and a bare-metal Linux platform run with production-style operational discipline (see below).
 
 ---
-### [Homelab Platform](https://github.com/davidpal3c/aluna_platform)
-(In progress) Production-inspired platform designed to explore infrastructure, observability, and workload operations.
 
-- RAID1 boot resilience with dual EFI
-- Storage isolation across OS, runtime, database, and backups
-- Platform-first design before workload sprawl
-- Current direction includes k3s, Prometheus, Grafana, Loki, and CI/CD
-- Built around failure-domain thinking, recoverability, and operational clarity
+### What I'm working on right now
+
+| System | What it is | State |
+|---|---|---|
+| **[ceiba-infra](https://github.com/CeibaLabs/ceiba-infra)** | Terraform-managed AWS environment for a live product — VPC isolation, EC2 Graviton, RDS Postgres, least-privilege IAM, automated cost guardrails | **~$30/month**, deployable from a clean account in 25 minutes (free GitHub Actions runner) |
+| **[@ceibalabs/ceiba-sdk](https://www.npmjs.com/package/@ceibalabs/ceiba-sdk)** | Node SDK for API keys, quotas, and subscription-gated access on Express and Fastify | Published on npm, MIT |
+| **[mu-platform_homelab](https://github.com/davidpal3c/mu-platform_homelab)** | Single-node private cloud on bare metal — RAID1 boot mirror, four isolated storage tiers, k3s | Building; every change carries a verification step and a rollback |
+
 
 ---
-### [MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)
-Hackathon-built launchpad for turning an endpoint into a paid, agent-ready tool package.
 
-MonetizeAPI takes a simple API or endpoint description and generates the pieces needed to package it for monetization:
+### What I work with
 
-- pricing and quota recommendations
-- x402 payment metadata
-- MCP tool definition
-- Ceiba-ready policy config
-- docs and launch checklist
-- paid-call simulation
-- downloadable launch package
+| | |
+|---|---|
+| **Cloud** | AWS — VPC · EC2 · RDS · IAM · CloudWatch · Lambda · SNS · S3 <br> Azure — AKS · DevOps Pipelines · Key Vault|
+| **Infrastructure as Code** | Terraform · Bash · Python · YAML |
+| **Containers & CI/CD** | Docker · Kubernetes · AKS · k3s · Helm · GitHub Actions · Azure DevOps |
+| **Systems** | Ubuntu Server · mdadm RAID · systemd · Nginx · IIS · Kestrel |
+| **Backend** | C# / ASP.NET Core · Node.js / Express / Fastify · Python / FastAPI · REST APIs |
+| **Frontend** | TypeScript · React · Next.js · state management (React Query, Zustand, Context API) |
+| **Data** | PostgreSQL · SQL Server · Redis · query and schema optimization |
 
-It was built for the Agnic monetization track, using Agnic for OAuth, balance, top-up, and paid model calls while keeping the core product logic provider-independent.
-
-Longer term, MonetizeAPI is the alpha path toward **Ceiba Launchpad**: a guided layer that helps developers move from having and endpoint or service to a priced, protected, documented, agent-callable product.
-
---- 
-### [CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)
-
-
-Full-stack campus platform deployed on Azure Kubernetes Service.
-
-- Next.js, Node.js, PostgreSQL
-- Firebase Auth (Google + Microsoft)
-- CI/CD with GitHub Actions
-- TLS with cert-manager (DNS-01 challenge)
-- Blue-Green deployment strategy
 
 ---
-## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,express,postgres,mysql,docker,kubernetes,linux,aws,azure&perline=14)](https://skillicons.dev)
+### Worth opening
+
+| Repo | What it proves |
+|---|---|
+| **[ceiba-infra](https://github.com/CeibaLabs/ceiba-infra)** | Terraform, AWS architecture, IAM design, and cost engineering — with the trade-offs written down, not just the result |
+| **[CarbonSage](https://github.com/davidpal3c/CarbonSage_agentic_ai)** | Full-stack data platform — FastAPI, Next.js, RAG/retrieval, provenance-bearing contracts, deployment gates |
+| **[ceiba-sdk-node](https://github.com/CeibaLabs/ceiba-sdk-node)** | Shipped developer tooling, published and MIT-licensed |
+| **[MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)** | A paid product I built and deployed end to end |
+| **[mu-platform_homelab](https://github.com/davidpal3c/mu-platform_homelab)** | Linux and platform engineering: failure-domain isolation by storage tier, and an operating model where nothing is "done" without verification |
+| **[CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)** | Full-stack delivery (Next.js/Node/PostgreSQL) *and* the Kubernetes deployment behind it — AKS, Ingress, TLS, GitHub Actions — for a 5-person team I led |
+
+
+---
+
+### Writing
+
+I document the reasoning, not just the result — architecture decisions, cost analysis, and the things that broke.
+**[davidpalacios.dev](https://davidpalacios.dev)**
+
+---
+
+**davidpal3c@gmail.com** · [LinkedIn](https://linkedin.com/in/davidpal3c) · [Portfolio](https://davidpalacios.dev)
+
+*Open to Software Engineering, Cloud, DevOps, and Platform Engineering roles — Calgary, remote across Canada, and contract engagements.*
 
 ---
 ## Blog
