@@ -49,11 +49,12 @@ I like working on both sides of development and operations, I can read the appli
 | Repo | What it proves |
 |---|---|
 | **[ceiba-infra](https://github.com/CeibaLabs/ceiba-infra)** | Terraform, AWS architecture, IAM design, and cost engineering — with the trade-offs written down, not just the result |
-| **[CarbonSage](https://github.com/davidpal3c/CarbonSage_agentic_ai)** | Full-stack data platform — FastAPI, Next.js, RAG/retrieval, provenance-bearing contracts, deployment gates |
-| **[ceiba-sdk-node](https://github.com/CeibaLabs/ceiba-sdk-node)** | Shipped developer tooling, published and MIT-licensed |
 | **[MonetizeAPI](https://github.com/davidpal3c/MonetizeAPI)** | A paid product I built and deployed end to end |
 | **[mu-platform_homelab](https://github.com/davidpal3c/mu-platform_homelab)** | Linux and platform engineering: failure-domain isolation by storage tier, and an operating model where everything done is verified and documented |
+| **[CarbonSage](https://github.com/davidpal3c/CarbonSage_agentic_ai)** | Full-stack data platform — FastAPI, Next.js, RAG/retrieval, provenance-bearing contracts, deployment gates |
 | **[CampusConnect](https://github.com/davidpal3c/CampusConnect_next_express)** | Full-stack delivery (Next.js/Node/PostgreSQL) *and* the Kubernetes deployment behind it — AKS, Ingress, TLS, GitHub Actions — for a 5-person team I led |
+| **[ceiba-sdk-node](https://github.com/CeibaLabs/ceiba-sdk-node)** | Shipped developer tooling, published and MIT-licensed |
+
 
 
 ---
