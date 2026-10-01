@@ -62,7 +62,7 @@ I like working on both sides of development and operations, I can read the appli
 ### Writing
 
 Beyond results, here's some reasoning, architecture decisions, cost analysis, and things that broke on the way. 
-[Visit my Blog for more](https://davidppalacios.dev/blog)
+[Visit my Blog for more](https://davidpalacios.dev/blog)
 
 
 ---
